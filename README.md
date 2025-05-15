@@ -1,4 +1,5 @@
-# Theory-of-Finance
+# ChatGPT Reserach Project
 ############################################################
 
-** First Lecture ** Intro to Static Asset Allocation Problem
+This repository contains the full code and all the datasets used along the project.
+
